@@ -1,0 +1,8 @@
+{
+  "name": "Quickmail Solutions LLC",
+  "description": "Marketing that turns attention into customers. Performance marketing, lead generation, and customer acquisition agency for growing businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
